@@ -3,12 +3,12 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
+HELLO everyone, my name is Lacee. I have a cat whose name is Morty, feel free to follow him on instagram! (You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
-1. Your current position
+1. Graduate Computer Science student at University of San Francisco (Your current position
 1. Organizations you're involved with
 1. Your personal and professional values
 1. Hobbies or fun facts
@@ -20,6 +20,7 @@ Write it in first (I) or third (Your Name Here) person.
 ## Current Role
 
 Grace Hopper Celebration Attendee
+Graduate Computer Science student at University of San Francisc0
 
 ## Recognition
 
